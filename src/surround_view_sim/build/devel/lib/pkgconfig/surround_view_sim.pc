@@ -1,0 +1,8 @@
+prefix=/home/reuben/catkin_ws/src/Surround_View_Sim/src/surround_view_sim/build/devel
+
+Name: surround_view_sim
+Description: Description of surround_view_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/reuben/catkin_ws/src/Surround_View_Sim/src/surround_view_sim/build/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime
